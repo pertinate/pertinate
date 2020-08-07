@@ -13,15 +13,15 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about personal stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on creating game backend servers using socket.io with typescript & unity;
-- 🌱 I’m currently learning CI/CD and cloud architecture through Wal-Mart; 
-- 👯 I’m looking to collaborate on anything!;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on creating game backend servers using socket.io with typescript & unity
+- 🌱 I’m currently learning CI/CD and cloud architecture through Wal-Mart
+- 👯 I’m looking to collaborate on anything!
+- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:** 
 
