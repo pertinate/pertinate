@@ -85,7 +85,7 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/Overseers/tch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pertinate&repo=tch" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pertinate" />
   </a>
   <a href="https://github.com/onimur/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overseers&repo=black-ice" />
