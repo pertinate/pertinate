@@ -58,10 +58,10 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  <a href="http://hits.dwyl.com/pertinate/pertinate" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/pertinate/pertinate.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=pertinate.pertinate" />
 </p>
 
 ## Support me
@@ -77,17 +77,5 @@ I created these images, feel free to use them.
   </a>
   <a href="https://www.buymeacoffee.com/onimur" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
----
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/Overseers/tch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pertinate" />
-  </a>
-  <a href="https://github.com/Overseers/black-ice">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overseers&repo=black-ice" />
   </a>
 </p>
