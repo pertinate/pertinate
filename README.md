@@ -88,6 +88,6 @@ I created these images, feel free to use them.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pertinate&repo=tch" />
   </a>
   <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pertinate&repo=black-ice" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overseers&repo=black-ice" />
   </a>
 </p>
