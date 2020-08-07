@@ -55,6 +55,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/csharp.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/github.svg"></code>
 </p>
 
 <!-- Your hits or visitors
