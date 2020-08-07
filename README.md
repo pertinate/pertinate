@@ -37,7 +37,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
