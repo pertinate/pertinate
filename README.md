@@ -12,16 +12,9 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about personal stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on creating game backend servers using socket.io with typescript & unity
-- 🌱 I’m currently learning CI/CD and cloud architecture through Wal-Mart
-- 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:** 
 
@@ -71,3 +64,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=pertinate.pertinate" />
 </p
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pertinate)
+
