@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pertinate)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-evans-712b69a4/)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicholas@pertinate.info)
-![Discord](https://img.shields.io/badge/Discord-Pertinate%235683-blue)
+[![Discord](https://img.shields.io/badge/Discord-Pertinate)](discord://-/users/133731699858079746)
 
 &nbsp;
 
